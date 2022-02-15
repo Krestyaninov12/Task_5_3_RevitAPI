@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Task_5_3 Создание панели</Name>
+		<Assembly>"C:\Program Files\RevitAPITrainig\Task_5_3.dll"</Assembly>
+		<AddInId>59CF4CF0-C2FF-442C-8456-7C4DDD7364A2</AddInId>
+		<FullClassName>Task_5_3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+	</AddIn>
+</RevitAddIns>
